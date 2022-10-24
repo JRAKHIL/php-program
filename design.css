@@ -1,0 +1,22 @@
+#s{
+	background-color: skyblue;
+	padding: 30px;
+	color: white;
+	width: 100%;
+	text-align: center;
+	font-size: 40px;
+}
+.tab{
+	margin-top: 20px;
+}
+.tab button {
+	background-color:white;
+	width: 150px;
+	padding: 10px;
+}
+.tab button:hover
+{
+	color: white;
+	background-color: blue;
+
+}
